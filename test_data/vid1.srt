@@ -1,0 +1,359 @@
+1
+00:00:00,000 --> 00:00:00,033
+<font size="28">FrameCnt: 1, DiffTime: 33ms
+2025-04-18 19:27:38.478
+[iso: 1170] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4288] </font>
+
+2
+00:00:00,033 --> 00:00:00,066
+<font size="28">FrameCnt: 2, DiffTime: 33ms
+2025-04-18 19:27:38.511
+[iso: 1180] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4286] </font>
+
+3
+00:00:00,066 --> 00:00:00,099
+<font size="28">FrameCnt: 3, DiffTime: 33ms
+2025-04-18 19:27:38.545
+[iso: 1190] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4283] </font>
+
+4
+00:00:00,099 --> 00:00:00,133
+<font size="28">FrameCnt: 4, DiffTime: 34ms
+2025-04-18 19:27:38.577
+[iso: 1200] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4280] </font>
+
+5
+00:00:00,133 --> 00:00:00,166
+<font size="28">FrameCnt: 5, DiffTime: 33ms
+2025-04-18 19:27:38.612
+[iso: 1190] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4283] </font>
+
+6
+00:00:00,166 --> 00:00:00,199
+<font size="28">FrameCnt: 6, DiffTime: 33ms
+2025-04-18 19:27:38.645
+[iso: 1190] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4285] </font>
+
+7
+00:00:00,199 --> 00:00:00,233
+<font size="28">FrameCnt: 7, DiffTime: 34ms
+2025-04-18 19:27:38.678
+[iso: 1190] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4286] </font>
+
+8
+00:00:00,233 --> 00:00:00,266
+<font size="28">FrameCnt: 8, DiffTime: 33ms
+2025-04-18 19:27:38.712
+[iso: 1190] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4287] </font>
+
+9
+00:00:00,266 --> 00:00:00,299
+<font size="28">FrameCnt: 9, DiffTime: 33ms
+2025-04-18 19:27:38.745
+[iso: 1190] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4287] </font>
+
+10
+00:00:00,299 --> 00:00:00,333
+<font size="28">FrameCnt: 10, DiffTime: 34ms
+2025-04-18 19:27:38.778
+[iso: 1190] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4287] </font>
+
+11
+00:00:00,333 --> 00:00:00,366
+<font size="28">FrameCnt: 11, DiffTime: 33ms
+2025-04-18 19:27:38.812
+[iso: 1160] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4286] </font>
+
+12
+00:00:00,366 --> 00:00:00,400
+<font size="28">FrameCnt: 12, DiffTime: 34ms
+2025-04-18 19:27:38.845
+[iso: 1180] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4282] </font>
+
+13
+00:00:00,400 --> 00:00:00,433
+<font size="28">FrameCnt: 13, DiffTime: 33ms
+2025-04-18 19:27:38.879
+[iso: 1190] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4277] </font>
+
+14
+00:00:00,433 --> 00:00:00,466
+<font size="28">FrameCnt: 14, DiffTime: 33ms
+2025-04-18 19:27:38.911
+[iso: 1200] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4271] </font>
+
+15
+00:00:00,466 --> 00:00:00,500
+<font size="28">FrameCnt: 15, DiffTime: 34ms
+2025-04-18 19:27:38.945
+[iso: 1210] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4265] </font>
+
+16
+00:00:00,500 --> 00:00:00,533
+<font size="28">FrameCnt: 16, DiffTime: 33ms
+2025-04-18 19:27:38.978
+[iso: 1210] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4258] </font>
+
+17
+00:00:00,533 --> 00:00:00,566
+<font size="28">FrameCnt: 17, DiffTime: 33ms
+2025-04-18 19:27:39.012
+[iso: 1220] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4251] </font>
+
+18
+00:00:00,566 --> 00:00:00,600
+<font size="28">FrameCnt: 18, DiffTime: 34ms
+2025-04-18 19:27:39.045
+[iso: 1230] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4244] </font>
+
+19
+00:00:00,600 --> 00:00:00,633
+<font size="28">FrameCnt: 19, DiffTime: 33ms
+2025-04-18 19:27:39.079
+[iso: 1240] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4238] </font>
+
+20
+00:00:00,633 --> 00:00:00,666
+<font size="28">FrameCnt: 20, DiffTime: 33ms
+2025-04-18 19:27:39.112
+[iso: 1240] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4232] </font>
+
+21
+00:00:00,666 --> 00:00:00,700
+<font size="28">FrameCnt: 21, DiffTime: 34ms
+2025-04-18 19:27:39.145
+[iso: 1250] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4224] </font>
+
+22
+00:00:00,700 --> 00:00:00,733
+<font size="28">FrameCnt: 22, DiffTime: 33ms
+2025-04-18 19:27:39.179
+[iso: 1260] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4215] </font>
+
+23
+00:00:00,733 --> 00:00:00,767
+<font size="28">FrameCnt: 23, DiffTime: 34ms
+2025-04-18 19:27:39.212
+[iso: 1240] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4206] </font>
+
+24
+00:00:00,767 --> 00:00:00,800
+<font size="28">FrameCnt: 24, DiffTime: 33ms
+2025-04-18 19:27:39.245
+[iso: 1230] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4195] </font>
+
+25
+00:00:00,800 --> 00:00:00,833
+<font size="28">FrameCnt: 25, DiffTime: 33ms
+2025-04-18 19:27:39.278
+[iso: 1280] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4184] </font>
+
+26
+00:00:00,833 --> 00:00:00,867
+<font size="28">FrameCnt: 26, DiffTime: 34ms
+2025-04-18 19:27:39.312
+[iso: 1270] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4172] </font>
+
+27
+00:00:00,867 --> 00:00:00,900
+<font size="28">FrameCnt: 27, DiffTime: 33ms
+2025-04-18 19:27:39.345
+[iso: 1260] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4163] </font>
+
+28
+00:00:00,900 --> 00:00:00,933
+<font size="28">FrameCnt: 28, DiffTime: 33ms
+2025-04-18 19:27:39.379
+[iso: 1240] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4156] </font>
+
+29
+00:00:00,933 --> 00:00:00,967
+<font size="28">FrameCnt: 29, DiffTime: 34ms
+2025-04-18 19:27:39.412
+[iso: 1260] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4150] </font>
+
+30
+00:00:00,967 --> 00:00:01,000
+<font size="28">FrameCnt: 30, DiffTime: 33ms
+2025-04-18 19:27:39.446
+[iso: 1280] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4146] </font>
+
+31
+00:00:01,000 --> 00:00:01,034
+<font size="28">FrameCnt: 31, DiffTime: 34ms
+2025-04-18 19:27:39.479
+[iso: 1290] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4144] </font>
+
+32
+00:00:01,034 --> 00:00:01,067
+<font size="28">FrameCnt: 32, DiffTime: 33ms
+2025-04-18 19:27:39.513
+[iso: 1250] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4142] </font>
+
+33
+00:00:01,067 --> 00:00:01,100
+<font size="28">FrameCnt: 33, DiffTime: 33ms
+2025-04-18 19:27:39.546
+[iso: 1270] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4140] </font>
+
+34
+00:00:01,100 --> 00:00:01,134
+<font size="28">FrameCnt: 34, DiffTime: 34ms
+2025-04-18 19:27:39.579
+[iso: 1280] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4140] </font>
+
+35
+00:00:01,134 --> 00:00:01,167
+<font size="28">FrameCnt: 35, DiffTime: 33ms
+2025-04-18 19:27:39.613
+[iso: 1290] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4139] </font>
+
+36
+00:00:01,167 --> 00:00:01,200
+<font size="28">FrameCnt: 36, DiffTime: 33ms
+2025-04-18 19:27:39.646
+[iso: 1300] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4139] </font>
+
+37
+00:00:01,200 --> 00:00:01,234
+<font size="28">FrameCnt: 37, DiffTime: 34ms
+2025-04-18 19:27:39.679
+[iso: 1310] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4139] </font>
+
+38
+00:00:01,234 --> 00:00:01,267
+<font size="28">FrameCnt: 38, DiffTime: 33ms
+2025-04-18 19:27:39.712
+[iso: 1310] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4139] </font>
+
+39
+00:00:01,267 --> 00:00:01,300
+<font size="28">FrameCnt: 39, DiffTime: 33ms
+2025-04-18 19:27:39.746
+[iso: 1270] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4141] </font>
+
+40
+00:00:01,300 --> 00:00:01,334
+<font size="28">FrameCnt: 40, DiffTime: 34ms
+2025-04-18 19:27:39.779
+[iso: 1260] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4146] </font>
+
+41
+00:00:01,334 --> 00:00:01,367
+<font size="28">FrameCnt: 41, DiffTime: 33ms
+2025-04-18 19:27:39.813
+[iso: 1290] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4152] </font>
+
+42
+00:00:01,367 --> 00:00:01,401
+<font size="28">FrameCnt: 42, DiffTime: 34ms
+2025-04-18 19:27:39.846
+[iso: 1260] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4164] </font>
+
+43
+00:00:01,401 --> 00:00:01,434
+<font size="28">FrameCnt: 43, DiffTime: 33ms
+2025-04-18 19:27:39.879
+[iso: 1230] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4179] </font>
+
+44
+00:00:01,434 --> 00:00:01,467
+<font size="28">FrameCnt: 44, DiffTime: 33ms
+2025-04-18 19:27:39.913
+[iso: 1250] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4198] </font>
+
+45
+00:00:01,467 --> 00:00:01,501
+<font size="28">FrameCnt: 45, DiffTime: 34ms
+2025-04-18 19:27:39.946
+[iso: 1210] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4211] </font>
+
+46
+00:00:01,501 --> 00:00:01,534
+<font size="28">FrameCnt: 46, DiffTime: 33ms
+2025-04-18 19:27:39.979
+[iso: 1220] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4220] </font>
+
+47
+00:00:01,534 --> 00:00:01,567
+<font size="28">FrameCnt: 47, DiffTime: 33ms
+2025-04-18 19:27:40.013
+[iso: 1200] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4226] </font>
+
+48
+00:00:01,567 --> 00:00:01,601
+<font size="28">FrameCnt: 48, DiffTime: 34ms
+2025-04-18 19:27:40.046
+[iso: 1230] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4229] </font>
+
+49
+00:00:01,601 --> 00:00:01,634
+<font size="28">FrameCnt: 49, DiffTime: 33ms
+2025-04-18 19:27:40.080
+[iso: 1200] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4231] </font>
+
+50
+00:00:01,634 --> 00:00:01,667
+<font size="28">FrameCnt: 50, DiffTime: 33ms
+2025-04-18 19:27:40.113
+[iso: 1230] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4232] </font>
+
+51
+00:00:01,667 --> 00:00:01,701
+<font size="28">FrameCnt: 51, DiffTime: 34ms
+2025-04-18 19:27:40.146
+[iso: 1190] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4231] </font>
+
+52
+00:00:01,701 --> 00:00:01,734
+<font size="28">FrameCnt: 52, DiffTime: 33ms
+2025-04-18 19:27:40.180
+[iso: 1210] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4230] </font>
+
+53
+00:00:01,734 --> 00:00:01,768
+<font size="28">FrameCnt: 53, DiffTime: 34ms
+2025-04-18 19:27:40.213
+[iso: 1170] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4227] </font>
+
+54
+00:00:01,768 --> 00:00:01,801
+<font size="28">FrameCnt: 54, DiffTime: 33ms
+2025-04-18 19:27:40.247
+[iso: 1190] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4224] </font>
+
+55
+00:00:01,801 --> 00:00:01,834
+<font size="28">FrameCnt: 55, DiffTime: 33ms
+2025-04-18 19:27:40.280
+[iso: 1210] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4221] </font>
+
+56
+00:00:01,834 --> 00:00:01,868
+<font size="28">FrameCnt: 56, DiffTime: 34ms
+2025-04-18 19:27:40.313
+[iso: 1190] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4217] </font>
+
+57
+00:00:01,868 --> 00:00:01,901
+<font size="28">FrameCnt: 57, DiffTime: 33ms
+2025-04-18 19:27:40.346
+[iso: 1200] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4217] </font>
+
+58
+00:00:01,901 --> 00:00:01,934
+<font size="28">FrameCnt: 58, DiffTime: 33ms
+2025-04-18 19:27:40.380
+[iso: 1170] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4219] </font>
+
+59
+00:00:01,934 --> 00:00:01,968
+<font size="28">FrameCnt: 59, DiffTime: 34ms
+2025-04-18 19:27:40.413
+[iso: 1160] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4228] </font>
+
+60
+00:00:01,968 --> 00:00:02,001
+<font size="28">FrameCnt: 60, DiffTime: 33ms
+2025-04-18 19:27:40.447
+[iso: 1170] [shutter: 1/30.0] [fnum: 1.7] [ev: 0] [color_md: default] [focal_len: 24.00] [latitude: 0.000000] [longitude: 0.000000] [rel_alt: 0.000 abs_alt: 123.273] [ct: 4241] </font>

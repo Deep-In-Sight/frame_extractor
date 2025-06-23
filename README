@@ -1,0 +1,17 @@
+# Description
+This is a tool for selecting frames from a video.
+The pipeline consists of the following steps:
+
+1. Extract frames from the video
+2. Calculate Laplacian variance of the frames and select frames with high variance
+3. Detect objects in the frames and save object masks
+4. Detect vegetation and save vegetationmasks
+5. Support static masks to apply to all frames (watermarking or fisheye contour)
+
+# Usage:
+
+```
+python3 main.py --help
+python3 main.py --video-names /path/to/video/*.mp4
+```
+Output is written to /path/to/video/output
